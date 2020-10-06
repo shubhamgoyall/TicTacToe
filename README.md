@@ -1,5 +1,5 @@
 # TicTacToe
-This time in java
+This time in java.
 
 Steps
 ---------------
